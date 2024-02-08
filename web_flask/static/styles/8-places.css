@@ -30,7 +30,6 @@ article {
 	position: relative;
 	justify-content: space-between;
 
-	height: 80px;	
 	width: 100%;
 }
 
@@ -39,7 +38,6 @@ article {
 	justify-content: center;
 	align-self: flex-end;
 
-	position: absolute;
 	right: 0;
 
 	line-height: 60px;
@@ -97,6 +95,7 @@ article h2 {
 	font-size: 30px;
 	margin: 10px auto;
 	padding: 0px;
+	text-align: left;
 }
 
 .guest_icon {
