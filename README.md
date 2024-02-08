@@ -162,6 +162,5 @@ Ghazi Omar - [Github](https://github.com/G-omar-H) / [Twitter](https://twitter.c
 </a>
 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
