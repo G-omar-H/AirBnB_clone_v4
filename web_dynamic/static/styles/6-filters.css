@@ -109,7 +109,8 @@ button:hover {
 	opacity: 90%;
 }
 
-.popover ul li input {
+.popover ul li  {
 	margin-right: 10px;
 	margin-left: 20px;
+	
 }
